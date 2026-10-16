@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="ahrisel. — silver galaxy rings on black">
+  <img src="assets/banner.png" width="100%" alt="my galaxy">
 </p>
 
 <p align="center">
@@ -9,9 +9,7 @@
 ---
 
 ```text
-> name    : ahrisel
-> website : ruzgr.lol
-> status  : just chilling
+> just vibing here, praying for a 40 net in AYT math
 ```
 
 ---
