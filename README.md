@@ -1,9 +1,21 @@
-<div align="center">
-  <img src="./assets/header.png" alt="ahrisel" width="100%" />
-</div>
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="ahrisel. — silver galaxy rings on black">
+</p>
 
-hey, i'm ahrisel.
+<p align="center">
+  <img src="assets/typing.svg" width="600" alt="hey, i'm ahrisel. / just here for fun.">
+</p>
 
-not much to put here, honestly.
+---
 
-[website](https://ruzgr.lol)
+```text
+> name    : ahrisel
+> website : ruzgr.lol
+> status  : just chilling
+```
+
+---
+
+<p align="center">
+  <a href="https://ruzgr.lol">ruzgr.lol ↗</a>
+</p>
